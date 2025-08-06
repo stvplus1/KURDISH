@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://iko-streamline-live1.akamaized.net/RonahiTV/master_3.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=1280x720
+https://iko-streamline-live1.akamaized.net/RonahiTV/master_2.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=1280x560
+https://iko-streamline-live1.akamaized.net/RonahiTV/master_1.m3u
