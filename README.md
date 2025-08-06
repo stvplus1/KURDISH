@@ -1,2 +1,10 @@
-# KURDISH
-SEMIROREMARI
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2628000,RESOLUTION=1920x1080
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawpublish/rudawtv_source/chunks.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1128000,RESOLUTION=1280x720
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawpublish/rudawtv_720p/chunks.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=878000,RESOLUTION=854x360
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawpublish/rudawtv_360p/chunks.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=528000,RESOLUTION=640x240
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawpublish/rudawtv_240p/chunks.m3u8
