@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1
+http://superintendent.whatevergos.com:8080/live/ABDULLAH/aHVzDrpCMh/9.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=1280x2
+https://cdn.karwan.tv/nrt2/tracks-v1a1/mono.m3u8
