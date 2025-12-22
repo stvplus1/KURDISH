@@ -1,5 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1980x1080
 https://6476e46b58f91.streamlock.net/liveTrans/stvtow/chunklist_w835929839.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=560x360
-https://rashaba.upload/videos/2025/12/dmaAXjKTpPfMhWu/h264/360/dmaAXjKTpPfMhWu_360_h264.m3u8 
