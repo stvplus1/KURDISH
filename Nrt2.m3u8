@@ -2,4 +2,4 @@
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1
 http://m3u.pro:88/live/tbpxZUpgPRFvO3e/Z2zKUYjQ316hvHc/189935.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=1280x2
-https://cdn.karwan.tv/nrt2/tracks-v1a1/mono.m3u8
+http://198.100.158.231:1935/live/nrt2/chunklist_w1427400244.m3u8
