@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=1837680,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
+https://shd-amg-fast.edgenextcdn.net/tx016/1080p-d/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1837680,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=854x480
+https://shd-amg-fast.edgenextcdn.net/tx016/576p-d/index.m3u8
