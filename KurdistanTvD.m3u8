@@ -1,1 +1,5 @@
-
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x720
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w1849868298_b1700000_sleng_t64MTA4MHA=.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=1280x480
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w608188912_b500000_sleng_t64MzYwcA==.m3u8
