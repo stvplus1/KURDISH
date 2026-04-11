@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-MEDIA:LANGUAGE="sorani",AUTOSELECT=YES,CHANNELS="2",TYPE=AUDIO,URI="https://stream.kurdmaxshow.tv/app/kurdmaxshow-sorani/chunklist_1_audio_3563405776609189860_llhls.m3u8",GROUP-ID="audio_0",DEFAULT=NO,NAME="ara"
-#EXT-X-MEDIA:LANGUAGE="kurmanci",AUTOSELECT=YES,CHANNELS="2",TYPE=AUDIO,URI="https://stream.kurdmaxshow.tv/app/kurdmaxshow-kurmanji/chunklist_1_audio_3777070746619381447_llhls.m3u8",GROUP-ID="audio_0",DEFAULT=NO,NAME="eng"
+#EXT-X-MEDIA:LANGUAGE="kurmanci",AUTOSELECT=YES,CHANNELS="2",TYPE=AUDIO,URI="https://stream.kurdmaxshow.tv/app/kurdmaxshow-sorani/chunklist_1_video_3563405776609189860_llhls.m3u8",GROUP-ID="audio_0",DEFAULT=NO,NAME="eng"
 #EXT-X-STREAM-INF:CODECS="mp4a.40.2,avc1.640028",AVERAGE-BANDWIDTH=5640800,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=6520800,AUDIO="audio_0"
 https://stream.kurdmaxshow.tv/app/kurdmaxshow-sorani/chunklist_0_video_3563405776609189860_llhls.m3u8
