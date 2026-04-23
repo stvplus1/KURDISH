@@ -29,7 +29,8 @@ http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/KurdistanTv.m3
 #EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_6763373.png" group-title=" Nilesat 201 at 7.0°W ", RUDAW HD
 http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/Rudaw.m3u8
 
-
+#EXTINF:-1 tvg-id="Varzesh" tvg-logo="https://telewebion.com/assets/images/channels/varzesh.png" group-title="Sports", Varzesh TV (Sport 1)
+https://telewebion.ir/embed/live/sport1
 
 #EXTINF:-1 tvg-id="https://semir.site123.me/" tvg-logo="https://www.appcreator24.com/srv/imgs/cards/o1641719_6763374.png?v=4" group-title=" Nilesat 201 at 7.0°W ", K24 HD
 http://raw.githubusercontent.com/stvplus1/KURDISH/refs/heads/main/k24.m3u8
