@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x720
 
-http://167.233.107.19:8080/kurdmax-proxy/app/kurdmax-sorani1/ts:playlist.m3u8?type=live
+http://167.233.107.19:8080/kurdmax-proxy/app/kurdmax-sorani1/medialist_917977731947844006_hls.m3u8
