@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1837680,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
-https://kurdtv.org/api/public/hls?u=https%3A%2F%2Fstream.kurdmax.tv%2Fapp%2Fkurdmax-kurmanji2%2Fmedialist_917977731947844006_hls.m3u8
+http://silka.m3um9xplus.org:2052//live/88577072662804/15518509928643/601421.m3u8
